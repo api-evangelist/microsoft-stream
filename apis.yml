@@ -7,10 +7,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Video
-  - Streaming
-  - Microsoft 365
   - Microsoft
+  - Microsoft 365
+  - Streaming
+  - Video
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-stream/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-03-16'
@@ -19,10 +19,10 @@ apis:
   - aid: microsoft-stream:graph-video-api
     name: Microsoft Graph Stream Video API
     tags:
-      - Video
-      - Streaming
       - Microsoft Graph
       - SharePoint
+      - Streaming
+      - Video
     image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://graph.microsoft.com/v1.0/
     humanURL: https://learn.microsoft.com/en-us/stream/
