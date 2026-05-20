@@ -38,6 +38,8 @@ apis:
       share, and embed enterprise videos using existing Graph drive and
       file APIs with video-specific metadata and playback support.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/microsoft
   - type: Portal
     url: https://www.microsoft365.com/
   - type: Website
