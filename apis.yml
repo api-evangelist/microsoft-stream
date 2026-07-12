@@ -38,6 +38,8 @@ apis:
       share, and embed enterprise videos using existing Graph drive and
       file APIs with video-specific metadata and playback support.
 common:
+  - type: DomainSecurity
+    url: security/microsoft-stream-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/microsoft
   - type: Portal
