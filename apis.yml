@@ -20,6 +20,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/microsoft-stream.png
 tags:
   - Microsoft
+  - Microsoft-365
+  - Streaming
+  - Video
+tags_raw:
+  - Microsoft
   - Microsoft 365
   - Streaming
   - Video
